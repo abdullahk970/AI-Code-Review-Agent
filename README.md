@@ -318,9 +318,9 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-**Abdullah Khan**
+Muhammad Abdullah Khan
 
-GitHub: https://github.com/abdullahk970
+
 
 ---
 
