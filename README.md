@@ -310,15 +310,9 @@ Contributions are welcome!
 
 ---
 
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 # 👨‍💻 Author
 
-Muhammad Abdullah Khan
+**Muhammad Abdullah Khan**
 
 
 
