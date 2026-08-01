@@ -131,9 +131,6 @@ AI-Code-Review-Agent/
 │   ├── hooks/
 │   └── lib/
 │
-├── screenshots/
-├── README.md
-└── docker-compose.yml
 ```
 
 ---
